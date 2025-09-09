@@ -53,7 +53,7 @@
 
 ### 💌 Let’s Connect!
 
-Wanna talk code, design, or just say hi?  
+Wanna talk code, cybersecurity, gaming or just say hi?  
 Reach out on [LinkedIn](#) _(https://www.linkedin.com/in/natale-centineo)_ or browse through my projects here on GitHub!
 
 </div>## Hi there 👋
