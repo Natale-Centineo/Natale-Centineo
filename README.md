@@ -25,23 +25,33 @@
 
 #### Languages & Frameworks:
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![API](https://img.shields.io/badge/-API-FFCA28?style=flat-square&logo=json)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-badge&logo=php&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=flat-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-badge&logo=node.js)
+![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-badge&logo=django&logoColor=green)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=flat-badge&logo=sqlite&logoColor=white)
+![API](https://img.shields.io/badge/-API-FFCA28?style=flat-badge&logo=json)
+![GITHUB COPILOT](https://img.shields.io/badge/github%20copilot-000000?style=flat-badge&logo=githubcopilot&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=flat-badge&logo=docker&logoColor=white)
+
+
 
 #### Design Tools:
 
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-badge&logo=canva&logoColor=white)
+![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=flat-badge&logo=phpstorm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-badge&logo=WebStorm&logoColor=white)
+![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
@@ -54,8 +64,7 @@
 ### 💌 Let’s Connect!
 
 Wanna talk code, cybersecurity, gaming or just say hi?  
-Reach out on [LinkedIn](#) _(https://www.linkedin.com/in/natale-centineo)_ or browse through my projects here on GitHub!
-
+Reach out on ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-badge&logo=linkedin&logoColor=white) _(https://www.linkedin.com/in/natale-centineo)_ or browse through my projects here on ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=flat-badge&logo=github&logoColor=white)
 </div>## Hi there 👋
 
 <!--
