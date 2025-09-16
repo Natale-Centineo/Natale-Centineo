@@ -9,7 +9,7 @@
 
 ---
 
-### &#128526 About Me
+### 🧐 About Me
 
 <ul>
   <li>I have always been passionate about computers and technology.</li>
@@ -43,15 +43,24 @@
 ![API](https://img.shields.io/badge/-API-FFCA28?style=flat-badge&logo=json)
 ![GITHUB COPILOT](https://img.shields.io/badge/github%20copilot-000000?style=flat-badge&logo=githubcopilot&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=flat-badge&logo=docker&logoColor=white)
+![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=flat-badge&logo=ubuntu&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=flat-badge&logo=windows&logoColor=white)
 
 
 
-#### Design Tools:
+#### 🧑‍💻 IDE:
 
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-badge&logo=canva&logoColor=white)
 ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=flat-badge&logo=phpstorm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-badge&logo=WebStorm&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-badge&logo=visual%20studio%20code&logoColor=white)
+
+
+#### 🎨 Design Tools:
+
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-badge&logo=canva&logoColor=white)
+![OBSStudio](https://img.shields.io/badge/OBSStudio-000000?style=flat-badge&logo=prezi&logoColor=white)
+![DAVINCIRESOLVE](https://img.shields.io/badge/DaVinci_Resolve-5091CD?style=flat-badge&logo=ghost&logoColor=yellow)
+
 
 ---
 
